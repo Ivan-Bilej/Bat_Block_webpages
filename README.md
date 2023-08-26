@@ -1,7 +1,7 @@
 # Bat_Block_webpages
 This is a simple bat script which will create firewall rule to block any website 
   
-	!!Attention, works only if you do not have antivirus!!
+!!Attention, works only if you do not have antivirus!!
 
 
 To start the Script, simply do following steps:
